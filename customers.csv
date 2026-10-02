@@ -1,0 +1,6 @@
+customer_id,customer_name,email,country,customer_type,updated_timestamp
+101,John,john@gmail.com,USA,PREMIUM,2026-10-01 10:00:00
+102,David,david@gmail.com,India,STANDARD,2026-10-01 11:00:00
+103,Emma,emma@gmail.com,UK,PREMIUM,2026-10-01 12:00:00
+104,Smith,smith@gmail.com,USA,STANDARD,2026-10-01 13:00:00
+105,Olivia,olivia@gmail.com,India,PREMIUM,2026-10-01 14:00:00
